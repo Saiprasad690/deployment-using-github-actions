@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: swiggy
-        image: aakibkhan1212/swiggy-clone:latest
+        image: saiprasad690/swiggy-clone:v2
         ports:
         - containerPort: 3000   # Use port 3000
 
